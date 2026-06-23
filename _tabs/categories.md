@@ -1,5 +1,5 @@
 ---
 layout: categories
-icon: fas fa tasks
+icon: fas fa-tasks
 order: 1
 ---
